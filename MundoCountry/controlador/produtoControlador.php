@@ -18,10 +18,11 @@
            $Preço = $_POST["Preço"];
            $Descrição = $_POST["Descrição"];
            
-           redirecionar("usuario/index");
+           //redirecionar("usuario/index");
+           print_r($_POST);
            } else{
                
-           exibir("usuario/formulario");
+           exibir("produto/formulario");
            
            }
        }

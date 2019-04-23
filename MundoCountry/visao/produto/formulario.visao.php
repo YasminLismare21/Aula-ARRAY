@@ -7,9 +7,12 @@
     </head>
     <body>
         <form action="" method="POST">
-            nome: <input type="text" name="nome">
-            email: <input type="text" name="email">
-            senha: <input type="text" name="senha">
+            Foto: <input type="text" name="Foto">
+            Código: <input type="text" name="Código">
+            Categoria: <input type="text" name="Categoria">
+            Nome: <input type="text" name="Nome">
+            Preço: <input type="text" name="Preço">
+            Descrição: <input type="text" name="Descrição">
             <button type="submit">Enviar</button>
         </form>
         
