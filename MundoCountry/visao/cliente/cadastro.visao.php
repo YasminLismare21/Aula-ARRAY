@@ -7,14 +7,12 @@
     </head>
     <body>
         <form action="" method="POST">
-            Nome: <input type="text" name="Nome">
-            Email: <input type="text" name="Email">
-            Cpf: <input type="text" name="Cpf">
-            Celular: <input type="text" name="Celular">
-            Sexo: <input type="radio" name="Sexo" value="F">f
-            <input type="radio" name="Sexo" value="M">m
-            Acesso: Senha:<input type="text" name="Senha">
-            Nova Senha:<input type="text" name="NovaSenha">
+            Nome: <input type="text" name="Nome"> <br>
+            Email: <input type="text" name="Email"> <br>
+            Cpf: <input type="text" name="Cpf"> <br>
+            Celular: <input type="text" name="Celular"> <br>
+            Senha:<input type="password" name="Senha"> <br>
+            Nova Senha:<input type="password" name="NovaSenha"> <br>
             <button id="botao">CRIAR CONTA</button>
         </form>
 

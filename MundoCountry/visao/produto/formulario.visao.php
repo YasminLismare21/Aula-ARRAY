@@ -7,7 +7,6 @@
     </head>
     <body>
         <form action="" method="POST">
-            Foto: <input type="text" name="Foto">
             Código: <input type="text" name="Código">
             Categoria: <input type="text" name="Categoria">
             Nome: <input type="text" name="Nome">

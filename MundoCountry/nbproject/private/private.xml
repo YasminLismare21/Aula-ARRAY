@@ -3,18 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/wamp64/www/MundoCountry/controlador/paginasControlador.php</file>
+            <file>file:/C:/wamp64/www/MundoCountry/controlador/clienteControlador.php</file>
             <file>file:/C:/wamp64/www/MundoCountry/controlador/produtoControlador.php</file>
-            <file>file:/C:/wamp64/www/MundoCountry/visao/paginas/mapa.visao.php</file>
-            <file>file:/C:/wamp64/www/MundoCountry/index.php</file>
-            <file>file:/C:/wamp64/www/MundoCountry/controlador/usuarioControlador.php</file>
             <file>file:/C:/wamp64/www/MundoCountry/visao/produto/formulario.visao.php</file>
-            <file>file:/C:/wamp64/www/MundoCountry/visao/produto/visualizar.visao.php</file>
-            <file>file:/C:/wamp64/www/MundoCountry/modelo/usuarioModelo.php</file>
-            <file>file:/C:/wamp64/www/MundoCountry/visao/paginas/sobre.visao.php</file>
-            <file>file:/C:/wamp64/www/MundoCountry/app.php</file>
-            <file>file:/C:/wamp64/www/MundoCountry/controlador/loginControlador.php</file>
-            <file>file:/C:/wamp64/www/MundoCountry/visao/paginas/inicial.visao.php</file>
+            <file>file:/C:/wamp64/www/MundoCountry/visao/cliente/contato.visao.php</file>
+            <file>file:/C:/wamp64/www/MundoCountry/visao/cliente/cadastro.visao.php</file>
         </group>
     </open-files>
 </project-private>
